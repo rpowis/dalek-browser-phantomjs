@@ -4,7 +4,7 @@
   "description": "PhantomJS binding for DalekJS",
   "main": "./index.js",
   "dependencies": {
-    "phantomjs": "1.9.x",
+    "phantomjs2": "2.0.0",
     "q": "1.1.2",
     "portscanner": "1.0.0"
   },
